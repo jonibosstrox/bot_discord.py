@@ -1,0 +1,1 @@
+El siguiente programa hara que se ejecute un bot en discord, el cual podra identificar la emocion que esta expresando una cara, para esto, hay que ingresar el comando %IA y adjuntar la imagen que desee de una expresion, el bot identificara que emoción expresa
